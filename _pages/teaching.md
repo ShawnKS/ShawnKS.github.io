@@ -13,4 +13,4 @@ nav_order: 5
 <img src="../assets/img/rourou_0.jpg" width="600">
 <img src="../assets/img/rourou_1.jpg" width="600">
 <img src="../assets/img/rourou_2.jpg" width="600">
-<img src="../assets/img/maomao_0.jpg" width="600">
+<img src="../assets/img/maomao.jpg" width="600">
