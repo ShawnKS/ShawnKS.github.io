@@ -1,12 +1,16 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: true
+permalink: /others/
+title: Others
+description: Some pics of my doggies rourou and maomao ^^.
+nav: True
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<!-- 插入图片的代码 -->
+<img src="../assets/img/rourou.jpg" width="600">
+<img src="../assets/img/rourou_3.jpg" width="600">
+<img src="../assets/img/rourou_0.jpg" width="600">
+<img src="../assets/img/rourou_1.jpg" width="600">
+<img src="../assets/img/rourou_2.jpg" width="600">
+<img src="../assets/img/maomao_0.jpg" width="600">

@@ -53,9 +53,14 @@ layout: default
             {%- include latest_posts.html %}
           {%- endif %}
 
+          <!-- Teaching -->
+          {% if page.selected_papers -%}
+            <h2><a href="{{ '/teaching/' | relative_url }}" style="color: inherit;">Teaching</a></h2>
+            {%- include teaching.html %}
+          {%- endif %}
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Pub.</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
