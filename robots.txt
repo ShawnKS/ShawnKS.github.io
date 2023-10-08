@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ShawnKS.github.io/xzs/sitemap.xml
+Sitemap: https://ShawnKS.github.io/xzs//sitemap.xml
