@@ -24,6 +24,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a first year Ph.D. student in School of Data Science at The Chinese University of Hong Kong, Shenzhen, under the supervision of Prof. <a href='https://mypage.cuhk.edu.cn/academics/yutianshu/'>Tianshu Yu</a>. I finished my M.Phil. from the Southern University of Science and Technology (SUSTech, 2019 - 2022), advised by Prof. <a href='https://jamesyu.me/'>James, Jianqiao Yu</a>, and B.Eng. from Beijing University of Posts and Telecommunications (BUPT, 2015 - 2019). 
 
-I spent 2 wonderful years working as a research intern at the Machine Learning Group, MSRA, under the supervision of Dr. <a href='https://www.microsoft.com/en-us/research/people/shunzhen/'>Shun Zheng</a> and Dr. <a href='https://sites.google.com/view/jiangbian'>Jiang Bian</a> (2021-2023). 
+I spent 2 wonderful years working as a research intern at the <a href='https://www.microsoft.com/en-us/research/group/machine-learning-research-group/'>Machine Learning Area, MSRA</a>, under the supervision of Dr. <a href='https://www.microsoft.com/en-us/research/people/shunzhen/'>Shun Zheng</a> and Dr. <a href='https://sites.google.com/view/jiangbian'>Jiang Bian</a> (2021-2023). 
 
 My research interests mainly focus on data-centric AI and application-driven AI research. My current research revolves around topics related to LLMs-enhanced industrial solutions and AI4S. Free to contact me if you have any questions or would like to discuss potential collaborations.
