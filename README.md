@@ -12,7 +12,7 @@ Personal academic website built with Jekyll and al-folio.
 
 ## Build
 
-With Ruby and Bundler installed:
+With Ruby 3.3, Bundler, and Node.js installed:
 
 ```sh
 bundle install
