@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
-nav: false
+title: CV
+nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: cv_2026_en_v2.pdf
+description: Education, research experience, teaching, and academic service.
 toc:
   sidebar: left
 ---

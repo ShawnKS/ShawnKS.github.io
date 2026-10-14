@@ -1,0 +1,44 @@
+.homepage {
+  padding-bottom: 2.5rem;
+  .post-header { margin-bottom: 1.5rem; }
+  .home-native-name { white-space: nowrap; }
+  p { line-height: 1.65; }
+  .profile {
+    width: 36%;
+    max-width: 360px;
+    img { display: block; height: auto; }
+  }
+  .profile .address {
+    font-family: Roboto, sans-serif;
+    .home-email { font-size: .8rem; overflow-wrap: anywhere; }
+  }
+  .home-profile-links { margin: 1.3rem 0 0; span { color: var(--global-text-color-light); } }
+  .home-section { margin-top: 2.25rem; scroll-margin-top: 76px; }
+  .home-section > h2 { margin-bottom: 1.1rem; font-size: 2rem; font-weight: 300; }
+  .publications {
+    margin-top: 1.4rem;
+    ol.bibliography > li { margin-bottom: 1.9rem; }
+    .author, .periodical { line-height: 1.55; }
+  }
+  .home-more { margin-top: .75rem; }
+  .home-course-term { color: var(--global-text-color-light); }
+  .social {
+    margin-top: 2.5rem;
+    .contact-icons { font-size: 1.5rem; }
+  }
+}
+@media (max-width: 575px) {
+  .homepage {
+    .post-title { font-size: 2rem; }
+    .profile {
+      float: none !important;
+      width: 100%;
+      max-width: 360px;
+      margin: 0 auto 1.5rem;
+    }
+    .profile .address { display: none; }
+    .home-section { margin-top: 1.9rem; }
+    .home-section > h2 { font-size: 1.75rem; }
+    .publications .abbr { margin-bottom: .55rem; }
+  }
+}

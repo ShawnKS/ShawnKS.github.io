@@ -1,5 +1,6 @@
   {%- if site.enable_math -%}
-  <!-- MathJax -->
+  {%- if page.math or content contains '$$' or content contains 'class="math"' or content contains 'type="math/tex"' or content contains '\(' or content contains '\[' or content contains '\begin{' or content contains '<d-math' -%}
+
   <script type="text/javascript">
     window.MathJax = {
       tex: {
@@ -8,5 +9,5 @@
     };
   </script>
   <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@{{ site.mathjax.version }}/es5/tex-mml-chtml.js"></script>
-  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  {%- endif %}
   {%- endif %}
